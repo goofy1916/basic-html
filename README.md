@@ -1,2 +1,2 @@
 # basic-html
-Chutya sa website
+Basic Html Website
